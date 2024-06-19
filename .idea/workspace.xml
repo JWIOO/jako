@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff48f6e9-d4f6-4e71-ac67-c573832d2857" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/springboot-developer/build/classes/java/main/me/jiwoosong/springbootdeveloper/controller/BlogApiController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-developer/build/classes/java/main/me/jiwoosong/springbootdeveloper/controller/BlogApiController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-developer/build/classes/java/main/me/jiwoosong/springbootdeveloper/controller/BlogViewController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-developer/build/classes/java/main/me/jiwoosong/springbootdeveloper/controller/BlogViewController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-developer/build/classes/java/main/me/jiwoosong/springbootdeveloper/domain/Article$ArticleBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-developer/build/classes/java/main/me/jiwoosong/springbootdeveloper/domain/Article$ArticleBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-developer/build/classes/java/main/me/jiwoosong/springbootdeveloper/service/BlogService.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-developer/build/classes/java/main/me/jiwoosong/springbootdeveloper/service/BlogService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-developer/build/kotlin/compileKotlin/cacheable/dirty-sources.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-developer/build/kotlin/compileKotlin/local-state/build-history.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-developer/build/reports/tests/test/classes/me.jiwoosong.springbootdeveloper.controller.BlogApiControllerTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-developer/build/reports/tests/test/classes/me.jiwoosong.springbootdeveloper.controller.BlogApiControllerTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-developer/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-developer/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-developer/build/reports/tests/test/packages/me.jiwoosong.springbootdeveloper.controller.html" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-developer/build/reports/tests/test/packages/me.jiwoosong.springbootdeveloper.controller.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-developer/build/test-results/test/TEST-me.jiwoosong.springbootdeveloper.controller.BlogApiControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-developer/build/test-results/test/TEST-me.jiwoosong.springbootdeveloper.controller.BlogApiControllerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-developer/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-developer/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-developer/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-developer/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-developer/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-developer/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-developer/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-developer/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-developer/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-developer/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-developer/src/main/java/me/jiwoosong/springbootdeveloper/controller/BlogApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-developer/src/main/java/me/jiwoosong/springbootdeveloper/controller/BlogApiController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/springboot-developer">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/springboot-developer">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="springboot-developer" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="springboot-developer" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="springboot-developer" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/6.1.1/4eeb5f2edb9f04d00357edcc56b59d3874b3b453/spring-web-6.1.1.jar!/org/springframework/http/ResponseEntity.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="isToolWindowVisible" value="false" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2hjjDlLQcNDSbMcjpRShMvCFPeI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.springboot-developer [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.springboot-developer [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sangwoopark/Desktop/Workspace/Java/jiwoo/jako&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Gradle.springboot-developer [build]">
+    <configuration name="springboot-developer [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/springboot-developer" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="springboot-developer [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/springboot-developer" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="SpringBootDeveloperApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="springboot-developer.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="me.jiwoosong.springbootdeveloper.SpringBootDeveloperApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.springboot-developer [build]" />
+        <item itemvalue="Gradle.springboot-developer [clean]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff48f6e9-d4f6-4e71-ac67-c573832d2857" name="Changes" comment="" />
+      <created>1718114262709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718114262709</updated>
+      <workItem from="1718114263794" duration="2827000" />
+      <workItem from="1718202152177" duration="2868000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
